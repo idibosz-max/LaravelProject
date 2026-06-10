@@ -10,7 +10,7 @@
 
 DIB Productions is a fully functional e-commerce web application built with Laravel (back-end) and React (front-end components), following the 13-week course curriculum. The shop sells premium electronics, audio equipment, clothing, and accessories.
 
----
+
 
 ## Tech Stack
 
